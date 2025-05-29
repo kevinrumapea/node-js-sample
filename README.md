@@ -1,9 +1,9 @@
 
 # Node.js Sample App
 This is a sample Node.js application deployed on AWS EC2 using GitHub Actions.
-- Author: [Kelompok 8]
-- Course: Sistem Komputasi Awan 
-- Date: 22 Mei 2025
+- Author: [Kelompok 8].
+- Course: Sistem Komputasi Awan. 
+- Date: 22 Mei 2025.
 
 ### This repository is no longer maintained!
 
